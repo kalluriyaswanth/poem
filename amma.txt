@@ -1,4 +1,4 @@
-hi 
+hi and unicorn
 i am 
 new 
 to git hub
@@ -7,3 +7,4 @@ i will
 reach good 
 heighs.
 i wish god blesses me.
+this is 
